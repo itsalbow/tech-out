@@ -7,7 +7,7 @@ This is a simple app for demonstration purposes. All it does is says Hello World
 * [React](https://facebook.github.io/react/)
 * [React-Router](https://github.com/ReactTraining/react-router/)
 
-### To run: (You need to have Node.js installed as well as NPM)
+### To run: (You need to have Node.js and NPM installed)
 1. Open Command Prompt or Terminal
 2. `git clone https://github.com/itsalbow/tech-out.git`
 3. `cd tech-out` to move into the directory.
