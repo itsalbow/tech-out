@@ -16,4 +16,4 @@ This is a simple app for demonstration purposes. All it does is says Hello World
 6. You should get a message saying listening to localhost.
 7. Open up your browser and go to http://localhost:3000
 8. Click buttons on the navigation bar to see React-Router in action.
-   ^(You can also type in the URL. Try http://localhost:3000/spanish)
+   ^(You can also type in the URL. Try http://localhost:3000/spanish)^
